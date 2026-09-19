@@ -12,4 +12,4 @@ replicas:
 
 images:
   - name: pp0104/calculator-docker-lab
-    newTag: jenkins-19
+    newTag: jenkins-20
