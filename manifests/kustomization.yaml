@@ -9,3 +9,7 @@ resources:
 replicas:
   - name: calculator
     count: 2
+
+images:
+  - name: pp0104/calculator-docker-lab
+    newTag: jenkins-19
